@@ -1,0 +1,361 @@
+running
+commit
+
+real	0m1.334s
+user	0m0.468s
+sys	0m0.863s
+open
+4 55 89 64
+
+real	0m0.126s
+user	0m0.025s
+sys	0m0.101s
+verify
+4 55 89 64
+
+real	0m0.106s
+user	0m0.067s
+sys	0m0.039s
+-rwxrwxrwx 1 kzoacn kzoacn 14802566 2月  11 16:53 commit
+-rwxrwxrwx 1 kzoacn kzoacn 739155 2月  11 16:53 open
+running
+commit
+
+real	0m1.963s
+user	0m0.645s
+sys	0m1.317s
+open
+4 49 152 64
+
+real	0m0.165s
+user	0m0.052s
+sys	0m0.112s
+verify
+4 49 152 64
+
+real	0m0.143s
+user	0m0.091s
+sys	0m0.052s
+-rwxrwxrwx 1 kzoacn kzoacn 22579377 2月  11 16:53 commit
+-rwxrwxrwx 1 kzoacn kzoacn 1263682 2月  11 16:53 open
+running
+commit
+
+real	0m4.981s
+user	0m1.808s
+sys	0m3.161s
+open
+4 58 333 64
+
+real	0m0.207s
+user	0m0.056s
+sys	0m0.151s
+verify
+4 58 333 64
+
+real	0m0.274s
+user	0m0.229s
+sys	0m0.045s
+-rwxrwxrwx 1 kzoacn kzoacn 58662080 2月  11 16:53 commit
+-rwxrwxrwx 1 kzoacn kzoacn 2777697 2月  11 16:53 open
+running
+commit
+
+real	0m2.416s
+user	0m0.820s
+sys	0m1.595s
+open
+4 42 213 64
+
+real	0m0.168s
+user	0m0.052s
+sys	0m0.115s
+verify
+4 42 213 64
+
+real	0m0.168s
+user	0m0.124s
+sys	0m0.044s
+-rwxrwxrwx 1 kzoacn kzoacn 27146269 2月  11 16:53 commit
+-rwxrwxrwx 1 kzoacn kzoacn 1768282 2月  11 16:53 open
+running
+commit
+
+real	0m5.677s
+user	0m1.932s
+sys	0m3.727s
+open
+4 51 411 64
+
+real	0m0.271s
+user	0m0.092s
+sys	0m0.179s
+verify
+4 51 411 64
+
+real	0m0.310s
+user	0m0.262s
+sys	0m0.048s
+-rwxrwxrwx 1 kzoacn kzoacn 63682425 2月  11 16:53 commit
+-rwxrwxrwx 1 kzoacn kzoacn 3427766 2月  11 16:53 open
+running
+commit
+
+real	0m6.976s
+user	0m2.433s
+sys	0m4.533s
+open
+4 52 514 64
+
+real	0m0.262s
+user	0m0.119s
+sys	0m0.142s
+verify
+4 52 514 64
+
+real	0m0.371s
+user	0m0.310s
+sys	0m0.061s
+-rwxrwxrwx 1 kzoacn kzoacn 81221237 2月  11 16:53 commit
+-rwxrwxrwx 1 kzoacn kzoacn 4283361 2月  11 16:53 open
+running
+commit
+
+real	0m4.431s
+user	0m1.644s
+sys	0m2.772s
+open
+4 43 420 64
+
+real	0m0.237s
+user	0m0.088s
+sys	0m0.148s
+verify
+4 43 420 64
+
+real	0m0.288s
+user	0m0.248s
+sys	0m0.040s
+-rwxrwxrwx 1 kzoacn kzoacn 54868582 2月  11 16:54 commit
+-rwxrwxrwx 1 kzoacn kzoacn 3489757 2月  11 16:54 open
+running
+commit
+
+real	0m11.428s
+user	0m4.014s
+sys	0m7.377s
+open
+4 54 775 64
+
+real	0m0.379s
+user	0m0.197s
+sys	0m0.181s
+verify
+4 54 775 64
+
+real	0m0.528s
+user	0m0.467s
+sys	0m0.060s
+-rwxrwxrwx 1 kzoacn kzoacn 127217380 2月  11 16:54 commit
+-rwxrwxrwx 1 kzoacn kzoacn 6469154 2月  11 16:54 open
+running
+commit
+
+real	0m6.759s
+user	0m2.394s
+sys	0m4.343s
+open
+4 44 570 64
+
+real	0m0.278s
+user	0m0.112s
+sys	0m0.164s
+verify
+4 44 570 64
+
+real	0m0.382s
+user	0m0.322s
+sys	0m0.061s
+-rwxrwxrwx 1 kzoacn kzoacn 76220960 2月  11 16:54 commit
+-rwxrwxrwx 1 kzoacn kzoacn 4746253 2月  11 16:54 open
+running
+commit
+
+real	0m2.207s
+user	0m0.802s
+sys	0m1.397s
+open
+4 51 78 128
+
+real	0m0.154s
+user	0m0.041s
+sys	0m0.114s
+verify
+4 51 78 128
+
+real	0m0.149s
+user	0m0.102s
+sys	0m0.047s
+-rwxrwxrwx 1 kzoacn kzoacn 24042702 2月  11 16:54 commit
+-rwxrwxrwx 1 kzoacn kzoacn 1292518 2月  11 16:54 open
+running
+commit
+
+real	0m3.725s
+user	0m1.285s
+sys	0m2.430s
+open
+4 48 145 128
+
+real	0m0.204s
+user	0m0.064s
+sys	0m0.139s
+verify
+4 48 145 128
+
+real	0m0.222s
+user	0m0.169s
+sys	0m0.053s
+-rwxrwxrwx 1 kzoacn kzoacn 42195206 2月  11 16:54 commit
+-rwxrwxrwx 1 kzoacn kzoacn 2410291 2月  11 16:54 open
+running
+commit
+
+real	0m8.533s
+user	0m3.038s
+sys	0m5.469s
+open
+4 54 285 128
+
+real	0m0.331s
+user	0m0.159s
+sys	0m0.171s
+verify
+4 54 285 128
+
+real	0m0.403s
+user	0m0.359s
+sys	0m0.044s
+-rwxrwxrwx 1 kzoacn kzoacn 93462310 2月  11 16:54 commit
+-rwxrwxrwx 1 kzoacn kzoacn 4751630 2月  11 16:54 open
+running
+commit
+
+real	0m6.952s
+user	0m2.485s
+sys	0m4.424s
+open
+4 47 279 128
+
+real	0m0.282s
+user	0m0.128s
+sys	0m0.153s
+verify
+4 47 279 128
+
+real	0m0.381s
+user	0m0.313s
+sys	0m0.068s
+-rwxrwxrwx 1 kzoacn kzoacn 79633250 2月  11 16:54 commit
+-rwxrwxrwx 1 kzoacn kzoacn 4643992 2月  11 16:54 open
+running
+commit
+
+real	0m11.857s
+user	0m4.091s
+sys	0m7.755s
+open
+4 52 425 128
+
+real	0m0.382s
+user	0m0.183s
+sys	0m0.199s
+verify
+4 52 425 128
+
+real	0m0.581s
+user	0m0.529s
+sys	0m0.052s
+-rwxrwxrwx 1 kzoacn kzoacn 134289035 2月  11 16:54 commit
+-rwxrwxrwx 1 kzoacn kzoacn 7083053 2月  11 16:54 open
+running
+commit
+
+real	0m12.648s
+user	0m4.565s
+sys	0m8.043s
+open
+4 50 481 128
+
+real	0m0.469s
+user	0m0.224s
+sys	0m0.244s
+verify
+4 50 481 128
+
+real	0m0.627s
+user	0m0.563s
+sys	0m0.064s
+-rwxrwxrwx 1 kzoacn kzoacn 146160187 2月  11 16:55 commit
+-rwxrwxrwx 1 kzoacn kzoacn 8016202 2月  11 16:55 open
+running
+commit
+
+real	0m11.324s
+user	0m4.065s
+sys	0m7.210s
+open
+4 45 469 128
+
+real	0m0.446s
+user	0m0.185s
+sys	0m0.261s
+verify
+4 45 469 128
+
+real	0m0.596s
+user	0m0.548s
+sys	0m0.048s
+-rwxrwxrwx 1 kzoacn kzoacn 128259276 2月  11 16:55 commit
+-rwxrwxrwx 1 kzoacn kzoacn 7806728 2月  11 16:55 open
+running
+commit
+
+real	0m16.229s
+user	0m5.678s
+sys	0m10.501s
+open
+4 49 635 128
+
+real	0m0.554s
+user	0m0.272s
+sys	0m0.280s
+verify
+4 49 635 128
+
+real	0m0.817s
+user	0m0.756s
+sys	0m0.060s
+-rwxrwxrwx 1 kzoacn kzoacn 188402966 2月  11 16:55 commit
+-rwxrwxrwx 1 kzoacn kzoacn 10013064 2月  11 16:55 open
+running
+commit
+
+real	0m12.589s
+user	0m4.352s
+sys	0m8.201s
+open
+4 43 543 128
+
+real	0m0.491s
+user	0m0.187s
+sys	0m0.303s
+verify
+4 43 543 128
+
+real	0m0.664s
+user	0m0.600s
+sys	0m0.064s
+-rwxrwxrwx 1 kzoacn kzoacn 141917204 2月  11 16:55 commit
+-rwxrwxrwx 1 kzoacn kzoacn 9035194 2月  11 16:55 open
+
