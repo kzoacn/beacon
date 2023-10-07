@@ -5,6 +5,6 @@ This is the source code of "Device-independent-quantum-randomness-enhanced zero-
 ## Run
 
 ```
-cd beaocn
+cd threecolor
 bash run.sh
 ```
