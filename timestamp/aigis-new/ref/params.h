@@ -1,0 +1,16 @@
+#ifndef PARAMS_H
+#define PARAMS_H
+
+
+#define HASHBYTES 32
+#define SEEDBYTES 32
+#define CRHBYTES 48
+#define PARAM_N 256
+
+#define PARAM_L 256
+#define PARAM_K 256 
+ 
+#define PK_SIZE_PACKED (PARAM_N*HASHBYTES)
+#define SK_SIZE_PACKED (HASHBYTES)
+#define SIG_SIZE_PACKED (PARAM_N*PARAM_N*HASHBYTES)
+#endif

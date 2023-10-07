@@ -1,0 +1,241 @@
+55
+89
+64
+
+open
+4 55 89 64
+TotalSeconds      : 0.2052514
+verify
+4 55 89 64
+TotalSeconds      : 0.3969836
+
+
+    目录: C:\Users\kzoacn\Downloads\beacon_v5\beacon\threecolor
+
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+-a----         2023/5/17     20:27       15234318 commit
+-a----         2023/5/17     20:27         729265 open
+
+49
+152
+64
+
+open
+4 49 152 64
+TotalSeconds      : 0.2045179
+verify
+4 49 152 64
+TotalSeconds      : 0.5681655
+-a----         2023/5/17     20:27       23237898 commit
+-a----         2023/5/17     20:27        1221811 open
+
+58
+333
+64
+
+open
+4 58 333 64
+TotalSeconds      : 0.3771195
+verify
+4 58 333 64
+TotalSeconds      : 1.3481899
+-a----         2023/5/17     20:27       60373110 commit
+-a----         2023/5/17     20:27        2741260 open
+
+42
+213
+64
+
+open
+4 42 213 64
+TotalSeconds      : 0.2656635
+verify
+4 42 213 64
+TotalSeconds      : 0.7319829
+-a----         2023/5/17     20:27       27937961 commit
+-a----         2023/5/17     20:27        1729956 open
+
+51
+411
+64
+
+open
+4 51 411 64
+TotalSeconds      : 0.447479
+verify
+4 51 411 64
+TotalSeconds      : 1.5456925
+-a----         2023/5/17     20:27       65539613 commit
+-a----         2023/5/17     20:27        3331521 open
+
+52
+514
+64
+
+open
+4 52 514 64
+TotalSeconds      : 0.540503
+verify
+4 52 514 64
+TotalSeconds      : 1.9449713
+-a----         2023/5/17     20:27       83590180 commit
+-a----         2023/5/17     20:27        4181131 open
+
+43
+420
+64
+
+open
+4 43 420 64
+TotalSeconds      : 0.4461908
+verify
+4 43 420 64
+TotalSeconds      : 1.423629
+-a----         2023/5/17     20:28       56469058 commit
+-a----         2023/5/17     20:28        3398948 open
+
+54
+775
+64
+
+open
+4 54 775 64
+TotalSeconds      : 0.7817896
+verify
+4 54 775 64
+TotalSeconds      : 2.9649467
+-a----         2023/5/17     20:28      130928032 commit
+-a----         2023/5/17     20:28        6361794 open
+
+44
+570
+64
+
+open
+4 44 570 64
+TotalSeconds      : 0.5825334
+verify
+4 44 570 64
+TotalSeconds      : 1.939312
+-a----         2023/5/17     20:28       78443982 commit
+-a----         2023/5/17     20:28        4607540 open
+
+51
+78
+128
+
+open
+4 51 78 128
+TotalSeconds      : 0.2194694
+verify
+4 51 78 128
+TotalSeconds      : 0.5975583
+-a----         2023/5/17     20:28       24743942 commit
+-a----         2023/5/17     20:28        1258576 open
+
+48
+145
+128
+
+open
+4 48 145 128
+TotalSeconds      : 0.3322965
+verify
+4 48 145 128
+TotalSeconds      : 1.0470148
+-a----         2023/5/17     20:29       43425890 commit
+-a----         2023/5/17     20:29        2324620 open
+
+54
+285
+128
+
+open
+4 54 285 128
+TotalSeconds      : 0.6028559
+verify
+4 54 285 128
+TotalSeconds      : 2.1929373
+-a----         2023/5/17     20:29       96188324 commit
+-a----         2023/5/17     20:29        4673117 open
+
+47
+279
+128
+
+open
+4 47 279 128
+TotalSeconds      : 0.5691123
+verify
+4 47 279 128
+TotalSeconds      : 1.9694818
+-a----         2023/5/17     20:29       81955724 commit
+-a----         2023/5/17     20:29        4480438 open
+
+52
+425
+128
+
+open
+4 52 425 128
+TotalSeconds      : 0.8422434
+verify
+4 52 425 128
+TotalSeconds      : 3.1624501
+-a----         2023/5/17     20:30      138205757 commit
+-a----         2023/5/17     20:30        6917965 open
+
+50
+481
+128
+
+open
+4 50 481 128
+TotalSeconds      : 0.9383037
+verify
+4 50 481 128
+TotalSeconds      : 3.4638357
+-a----         2023/5/17     20:30      150423102 commit
+-a----         2023/5/17     20:30        7776658 open
+
+45
+469
+128
+
+open
+4 45 469 128
+TotalSeconds      : 0.9638862
+verify
+4 45 469 128
+TotalSeconds      : 3.3261223
+-a----         2023/5/17     20:31      132000344 commit
+-a----         2023/5/17     20:31        7545088 open
+
+49
+635
+128
+
+open
+4 49 635 128
+TotalSeconds      : 1.251338
+verify
+4 49 635 128
+TotalSeconds      : 4.6373252
+-a----         2023/5/17     20:31      193919776 commit
+-a----         2023/5/17     20:31        9669877 open
+
+43
+543
+128
+
+open
+4 43 543 128
+TotalSeconds      : 1.0565988
+verify
+4 43 543 128
+TotalSeconds      : 3.6229625
+-a----         2023/5/17     20:32      146056684 commit
+-a----         2023/5/17     20:32        8802974 open
+

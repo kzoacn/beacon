@@ -1,0 +1,26 @@
+在命令行执行aigis.exe以看到说明
+usage :
+         aigis keygen <pk file> <sk file>
+         aigis sign <sk file> <in file> <out file>
+         aigis verify <pk file> <in file> <sign file>
+
+
+程序会使用random.txt作为随机源,请将随机数文件重命名并覆盖random.txt
+
+分别代表密钥生成，签名，验证
+
+举例1
+aigis.exe keygen alice.pk alice.sk
+生成公私钥到alice.pk,alice.sk
+
+举例2
+aigis.exe sign alice.sk in.txt sign.txt
+使用alice.sk对in.txt签名,生成文件sign.txt
+
+举例3
+aigis.exe verify  alice.pk in.txt sign.txt
+使用alice.pk对in.txt验证签名,签名为sign.txt
+验证成功会输出SUCCESS,否则会输出FAIL
+
+成功的返回值为0，否则为-1
+
