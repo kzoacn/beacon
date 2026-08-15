@@ -1,0 +1,13 @@
+{
+  "captured_at_utc": "2026-08-15T21:29:00.798014+00:00",
+  "live_url": "https://agentbounties.app/",
+  "macos_version": "26.5.2",
+  "public_run_url": "https://github.com/kzoacn/beacon/actions/runs/31909523606",
+  "safari_version": "26.5.2",
+  "screenshot_sha256": "5a0e1fd9884b303b8c8d701ab9ee4234267b36c25b3a5fb70778de9b2dc8265d",
+  "viewport": {
+    "devicePixelRatio": 1,
+    "height": 948,
+    "width": 1440
+  }
+}
