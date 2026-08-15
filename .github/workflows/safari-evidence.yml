@@ -24,17 +24,29 @@ jobs:
         run: sudo safaridriver --enable
 
       - name: Install automation dependencies
-        run: python3 -m pip install --user selenium pillow
+        id: install
+        run: |
+          python3 -m venv /tmp/safari-venv
+          /tmp/safari-venv/bin/python -m pip install --disable-pip-version-check selenium pillow 2>&1 | tee install.log
 
       - name: Capture Safari evidence
         run: |
           PUBLIC_RUN_URL="https://github.com/${{ github.repository }}/actions/runs/${{ github.run_id }}"
-          python3 capture_safari_evidence.py "$PUBLIC_RUN_URL"
+          /tmp/safari-venv/bin/python capture_safari_evidence.py "$PUBLIC_RUN_URL"
 
       - name: Commit evidence back to this branch
         run: |
           git config user.name "kzoacn"
           git config user.email "kzoacn@outlook.com"
           git add evidence
-          git commit -m "Add macOS Safari evidence bundle for Agent Bounties homepage"
+          git commit -m "Add macOS Safari evidence bundle [skip ci]"
+          git push origin "HEAD:${{ github.ref_name }}"
+
+      - name: Commit diagnostic log on failure
+        if: failure()
+        run: |
+          git config user.name "kzoacn"
+          git config user.email "kzoacn@outlook.com"
+          git add install.log
+          git commit -m "Add Safari workflow diagnostic log [skip ci]"
           git push origin "HEAD:${{ github.ref_name }}"
